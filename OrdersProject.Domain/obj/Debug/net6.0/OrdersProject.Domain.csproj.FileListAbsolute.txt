@@ -1,0 +1,12 @@
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\bin\Debug\net6.0\OrdersProject.Domain.deps.json
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\bin\Debug\net6.0\OrdersProject.Domain.dll
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\bin\Debug\net6.0\OrdersProject.Domain.pdb
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\obj\Debug\net6.0\OrdersProject.Domain.csproj.AssemblyReference.cache
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\obj\Debug\net6.0\OrdersProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\obj\Debug\net6.0\OrdersProject.Domain.AssemblyInfoInputs.cache
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\obj\Debug\net6.0\OrdersProject.Domain.AssemblyInfo.cs
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\obj\Debug\net6.0\OrdersProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\obj\Debug\net6.0\OrdersProject.Domain.dll
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\obj\Debug\net6.0\refint\OrdersProject.Domain.dll
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\obj\Debug\net6.0\OrdersProject.Domain.pdb
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Domain\obj\Debug\net6.0\ref\OrdersProject.Domain.dll

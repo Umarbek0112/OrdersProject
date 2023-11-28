@@ -1,0 +1,17 @@
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\bin\Debug\net6.0\OrdersProject.Service.deps.json
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\bin\Debug\net6.0\OrdersProject.Service.dll
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\bin\Debug\net6.0\OrdersProject.Service.pdb
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\bin\Debug\net6.0\OrdersProject.Data.dll
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\bin\Debug\net6.0\OrdersProject.Domain.dll
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\bin\Debug\net6.0\OrdersProject.Data.pdb
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\bin\Debug\net6.0\OrdersProject.Domain.pdb
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\obj\Debug\net6.0\OrdersProject.Service.csproj.AssemblyReference.cache
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\obj\Debug\net6.0\OrdersProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\obj\Debug\net6.0\OrdersProject.Service.AssemblyInfoInputs.cache
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\obj\Debug\net6.0\OrdersProject.Service.AssemblyInfo.cs
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\obj\Debug\net6.0\OrdersProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\obj\Debug\net6.0\OrdersProject.Service.csproj.CopyComplete
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\obj\Debug\net6.0\OrdersProject.Service.dll
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\obj\Debug\net6.0\refint\OrdersProject.Service.dll
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\obj\Debug\net6.0\OrdersProject.Service.pdb
+C:\Users\i7TechStore\source\repos\OrdersProject\OrdersProject.Service\obj\Debug\net6.0\ref\OrdersProject.Service.dll

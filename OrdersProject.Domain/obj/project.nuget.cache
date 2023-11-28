@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zmqE3GMIDIz9NJrrGD1lPZgkQLakXKDT1jSnLQtF06xpuKgR7+8gQrZ46Cg35el/9uxE0c/hGxmV3KguenolvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\i7TechStore\\source\\repos\\OrdersProject\\OrdersProject.Domain\\OrdersProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\i7TechStore\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.16\\microsoft.entityframeworkcore.abstractions.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
